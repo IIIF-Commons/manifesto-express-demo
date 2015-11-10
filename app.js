@@ -1,5 +1,5 @@
 var express = require('express');
-var manifesto = require('manifesto');
+var manifesto = require('manifesto.js');
 var app = express();
 
 app.get('/', function (req, res) {
