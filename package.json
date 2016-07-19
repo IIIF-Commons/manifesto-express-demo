@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/edsilv/manifesto-express-demo.git"
+    "url": "git+https://github.com/viewdir/manifesto-express-demo.git"
   },
-  "author": "Edward Silverton <e.silverton@gmail.com> (http://edsilv.com)",
+  "author": "Edward Silverton <ed@edsilv.com> (http://edsilv.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/edsilv/manifesto-express-demo/issues"
+    "url": "https://github.com/viewdir/manifesto-express-demo/issues"
   },
-  "homepage": "https://github.com/edsilv/manifesto-express-demo#readme"
+  "homepage": "https://github.com/viewdir/manifesto-express-demo#readme"
 }
